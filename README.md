@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="200"width="100%" src="GITHUB.png"  />
+</div>
 <h1 align="center">Hi 👋, I'm Rajat Pandey</h1>
 <h3 align="center">A skilled and enthusiastic Software Developer from India</h3>
 
